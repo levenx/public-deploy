@@ -1,0 +1,109 @@
+{
+  "id": "material_module",
+  "name": "material_module",
+  "metaData": {
+    "name": "material_module",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "material-module"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "@mf-types.zip",
+      "api": "@mf-types.d.ts"
+    },
+    "globalName": "material_module",
+    "pluginVersion": "0.22.0",
+    "prefetchInterface": false,
+    "publicPath": "http://127.0.0.1:5500/apps/modules/material-module/dist/"
+  },
+  "shared": [
+    {
+      "id": "material_module:antd",
+      "name": "antd",
+      "version": "5.29.3",
+      "singleton": true,
+      "requiredVersion": "5.29.3",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "static/js/330.2375b79d.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "material_module:react-dom",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "remoteEntry.js",
+            "static/js/lib-react.95304c49.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "material_module:react",
+      "name": "react",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "remoteEntry.js",
+            "static/js/lib-react.95304c49.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "material_module:material-picker",
+      "name": "material-picker",
+      "assets": {
+        "js": {
+          "sync": [
+            "static/js/async/__federation_expose_material_picker.99d4e890.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./material-picker"
+    }
+  ]
+}
