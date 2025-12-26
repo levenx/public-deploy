@@ -22,7 +22,7 @@
     "globalName": "material_module",
     "pluginVersion": "0.22.0",
     "prefetchInterface": false,
-    "publicPath": "http://127.0.0.1:5500/apps/modules/material-module/dist/"
+    "publicPath": "https://cdn.jsdelivr.net/gh/levenx/public-deploy/material-module/"
   },
   "shared": [
     {
