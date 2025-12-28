@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/330.2375b79d.js",
+            "static/js/305.a88bcdf9.js",
             "remoteEntry.js"
           ]
         },
@@ -46,9 +46,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./material-picker"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -63,7 +61,7 @@
           "async": [],
           "sync": [
             "remoteEntry.js",
-            "static/js/lib-react.95304c49.js"
+            "static/js/lib-react.27d9b2fb.js"
           ]
         },
         "css": {
@@ -71,9 +69,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./material-picker"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -88,7 +84,7 @@
           "async": [],
           "sync": [
             "remoteEntry.js",
-            "static/js/lib-react.95304c49.js"
+            "static/js/lib-react.27d9b2fb.js"
           ]
         },
         "css": {
@@ -96,9 +92,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./material-picker"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -107,21 +101,71 @@
       "path": "./material-picker",
       "id": "material_module:material-picker",
       "name": "material-picker",
-      "requires": [
-        "react",
-        "react-dom",
-        "antd"
-      ],
-      "file": "src/components/material-picker.tsx",
+      "requires": [],
+      "file": "src/modules/material-picker/index.tsx",
       "assets": {
         "js": {
           "sync": [
-            "static/js/async/__federation_expose_material_picker.99d4e890.js"
+            "static/js/lib-axios.053bee03.js",
+            "static/js/781.b19f8d97.js",
+            "static/js/862.3461522d.js",
+            "static/js/638.22f919b6.js",
+            "static/js/async/508.29aeae49.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [
+            "static/css/async/__federation_expose_material_picker.101a0282.css"
+          ],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./material-uploader",
+      "id": "material_module:material-uploader",
+      "name": "material-uploader",
+      "requires": [],
+      "file": "src/modules/material-uploader/index.tsx",
+      "assets": {
+        "js": {
+          "sync": [
+            "static/js/lib-axios.053bee03.js",
+            "static/js/781.b19f8d97.js",
+            "static/js/638.22f919b6.js",
+            "static/js/async/__federation_expose_material_uploader.b52932c5.js"
           ],
           "async": []
         },
         "css": {
           "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./material-form-input",
+      "id": "material_module:material-form-input",
+      "name": "material-form-input",
+      "requires": [],
+      "file": "src/modules/material-form-input/index.tsx",
+      "assets": {
+        "js": {
+          "sync": [
+            "static/js/lib-axios.053bee03.js",
+            "static/js/781.b19f8d97.js",
+            "static/js/862.3461522d.js",
+            "static/js/638.22f919b6.js",
+            "static/js/async/508.29aeae49.js",
+            "static/js/async/__federation_expose_material_form_input.086ac378.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [
+            "static/css/async/__federation_expose_material_form_input.9faf5335.css"
+          ],
           "async": []
         }
       }

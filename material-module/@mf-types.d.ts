@@ -1,3 +1,3 @@
 
-    export type RemoteKeys = 'REMOTE_ALIAS_IDENTIFIER/material-picker';
-    type PackageType<T> = T extends 'REMOTE_ALIAS_IDENTIFIER/material-picker' ? typeof import('REMOTE_ALIAS_IDENTIFIER/material-picker') :any;
+    export type RemoteKeys = 'REMOTE_ALIAS_IDENTIFIER/material-picker' | 'REMOTE_ALIAS_IDENTIFIER/material-uploader' | 'REMOTE_ALIAS_IDENTIFIER/material-form-input';
+    type PackageType<T> = T extends 'REMOTE_ALIAS_IDENTIFIER/material-form-input' ? typeof import('REMOTE_ALIAS_IDENTIFIER/material-form-input') :T extends 'REMOTE_ALIAS_IDENTIFIER/material-uploader' ? typeof import('REMOTE_ALIAS_IDENTIFIER/material-uploader') :T extends 'REMOTE_ALIAS_IDENTIFIER/material-picker' ? typeof import('REMOTE_ALIAS_IDENTIFIER/material-picker') :any;

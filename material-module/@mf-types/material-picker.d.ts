@@ -1,2 +1,2 @@
-export * from './compiled-types/components/material-picker';
-export { default } from './compiled-types/components/material-picker';
+export * from './compiled-types/modules/material-picker/index';
+export { default } from './compiled-types/modules/material-picker/index';
