@@ -9,7 +9,7 @@
       "buildName": "@portal/material-module"
     },
     "remoteEntry": {
-      "name": "remoteEntry.js",
+      "name": "remoteEntry.43f71cfc508ef793.js",
       "path": "",
       "type": "global"
     },
@@ -36,7 +36,7 @@
           "async": [],
           "sync": [
             "static/js/178.284a8466.js",
-            "remoteEntry.js"
+            "remoteEntry.43f71cfc508ef793.js"
           ]
         },
         "css": {
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.js",
+            "remoteEntry.43f71cfc508ef793.js",
             "static/js/lib-react.89073fac.js"
           ]
         },
@@ -75,7 +75,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.js",
+            "remoteEntry.43f71cfc508ef793.js",
             "static/js/lib-react.89073fac.js"
           ]
         },
