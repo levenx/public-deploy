@@ -6,7 +6,7 @@
     "type": "app",
     "buildInfo": {
       "buildVersion": "1.0.0",
-      "buildName": "material-module"
+      "buildName": "@portal/material-module"
     },
     "remoteEntry": {
       "name": "remoteEntry.js",
@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/305.a88bcdf9.js",
+            "static/js/178.284a8466.js",
             "remoteEntry.js"
           ]
         },
@@ -61,7 +61,7 @@
           "async": [],
           "sync": [
             "remoteEntry.js",
-            "static/js/lib-react.27d9b2fb.js"
+            "static/js/lib-react.89073fac.js"
           ]
         },
         "css": {
@@ -84,7 +84,7 @@
           "async": [],
           "sync": [
             "remoteEntry.js",
-            "static/js/lib-react.27d9b2fb.js"
+            "static/js/lib-react.89073fac.js"
           ]
         },
         "css": {
@@ -105,19 +105,11 @@
       "file": "src/modules/material-picker/index.tsx",
       "assets": {
         "js": {
-          "sync": [
-            "static/js/lib-axios.053bee03.js",
-            "static/js/781.b19f8d97.js",
-            "static/js/862.3461522d.js",
-            "static/js/638.22f919b6.js",
-            "static/js/async/508.29aeae49.js"
-          ],
+          "sync": [],
           "async": []
         },
         "css": {
-          "sync": [
-            "static/css/async/__federation_expose_material_picker.101a0282.css"
-          ],
+          "sync": [],
           "async": []
         }
       }
@@ -131,15 +123,42 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/lib-axios.053bee03.js",
-            "static/js/781.b19f8d97.js",
-            "static/js/638.22f919b6.js",
-            "static/js/async/__federation_expose_material_uploader.b52932c5.js"
+            "static/js/lib-axios.4e2a7f77.js",
+            "static/js/294.7059fcfa.js",
+            "static/js/async/911.c067f2b5.js"
           ],
           "async": []
         },
         "css": {
-          "sync": [],
+          "sync": [
+            "static/css/async/__federation_expose_material_uploader.590bb90c.css"
+          ],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./material-trash",
+      "id": "material_module:material-trash",
+      "name": "material-trash",
+      "requires": [],
+      "file": "src/modules/material-trash/index.tsx",
+      "assets": {
+        "js": {
+          "sync": [
+            "static/js/lib-axios.4e2a7f77.js",
+            "static/js/294.7059fcfa.js",
+            "static/js/125.47181f68.js",
+            "static/js/async/911.c067f2b5.js",
+            "static/js/async/84.77574d18.js",
+            "static/js/async/__federation_expose_material_trash.0fa5242d.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [
+            "static/css/async/__federation_expose_material_trash.8de0ee89.css"
+          ],
           "async": []
         }
       }
@@ -153,18 +172,19 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/lib-axios.053bee03.js",
-            "static/js/781.b19f8d97.js",
-            "static/js/862.3461522d.js",
-            "static/js/638.22f919b6.js",
-            "static/js/async/508.29aeae49.js",
-            "static/js/async/__federation_expose_material_form_input.086ac378.js"
+            "static/js/lib-axios.4e2a7f77.js",
+            "static/js/294.7059fcfa.js",
+            "static/js/125.47181f68.js",
+            "static/js/async/492.08088910.js",
+            "static/js/async/911.c067f2b5.js",
+            "static/js/async/84.77574d18.js",
+            "static/js/async/__federation_expose_material_form_input.115479e3.js"
           ],
           "async": []
         },
         "css": {
           "sync": [
-            "static/css/async/__federation_expose_material_form_input.9faf5335.css"
+            "static/css/async/__federation_expose_material_form_input.872920af.css"
           ],
           "async": []
         }

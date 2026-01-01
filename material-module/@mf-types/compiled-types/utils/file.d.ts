@@ -7,3 +7,4 @@
  * @returns {File} 一个具有新名称的新 File 对象，其内容、类型和最后修改日期与原始文件相同。
  */
 export declare function renameFile(originalFile: File, newName: string): File;
+export declare function getMimeTypeByExtension(filename: string): string;

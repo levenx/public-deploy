@@ -6,6 +6,7 @@ export type Format = {
 export interface UploadedFile {
     uploadId: string;
     ratio?: number;
+    source?: string;
     originalFile: {
         file: File;
         type: string;

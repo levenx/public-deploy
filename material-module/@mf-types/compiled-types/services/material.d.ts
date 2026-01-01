@@ -26,11 +26,23 @@ export interface IMaterialItem {
     groups: Array<unknown>;
     viewCount: number;
     format?: string;
+    status?: number;
+}
+export interface IMaterialView {
+    id: number;
+    url: string;
+    origin: string;
+    ip: string;
+    createdAt: string;
+    item: IMaterialItem;
 }
 export declare const getMaterialGroup: (repo: string) => Promise<IResponse<IMaterialGroup[]>>;
 export declare const getMaterialItem: (params: IMaterialItemParams) => Promise<IPageResponse<IMaterialItem[]>>;
+export declare const getOnlyMaterialItem: (id: number) => Promise<IResponse<IMaterialItem>>;
 export declare const uploadMaterial: (formData: FormData, options: {
     onUploadProgress?: (progressEvent: AxiosProgressEvent) => void;
 }) => Promise<IResponse<unknown>>;
-export declare const deleteMaterial: (ids: number[]) => Promise<IResponse<unknown>>;
+export declare const batchRestore: (ids: number[]) => Promise<IResponse<unknown>>;
+export declare const deleteMaterial: (ids: number[], isHardDelete: boolean) => Promise<IResponse<unknown>>;
+export declare const getMaterialViews: (id: number) => Promise<IResponse<IMaterialView[]>>;
 export {};

@@ -5,11 +5,12 @@ interface UseMaterialRequestOptions {
     keyword?: string;
     ratio?: string;
     status?: number;
+    enableRequest?: boolean;
 }
 export default function useMaterialRequest(options: UseMaterialRequestOptions): {
     dataSource: import("@/services/material").IMaterialItem[];
     hasNextPage: boolean;
-    fetchNextPage: (...args: any[]) => void;
+    fetchNextPage: (args: import("@tanstack/react-query").FetchNextPageOptions | undefined) => void;
     reload: () => Promise<import("@tanstack/react-query").QueryObserverResult<import("@tanstack/react-query").InfiniteData<import("@/services/material").IMaterialItem[], unknown>, Error>>;
     total: number;
     isLoading: boolean;
