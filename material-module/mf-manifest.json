@@ -9,7 +9,7 @@
       "buildName": "@portal/material-module"
     },
     "remoteEntry": {
-      "name": "remoteEntry.43f71cfc508ef793.js",
+      "name": "remoteEntry.b82b73d5bd2dc43e.js",
       "path": "",
       "type": "global"
     },
@@ -36,7 +36,7 @@
           "async": [],
           "sync": [
             "static/js/178.284a8466.js",
-            "remoteEntry.43f71cfc508ef793.js"
+            "remoteEntry.b82b73d5bd2dc43e.js"
           ]
         },
         "css": {
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.43f71cfc508ef793.js",
+            "remoteEntry.b82b73d5bd2dc43e.js",
             "static/js/lib-react.89073fac.js"
           ]
         },
@@ -75,7 +75,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.43f71cfc508ef793.js",
+            "remoteEntry.b82b73d5bd2dc43e.js",
             "static/js/lib-react.89073fac.js"
           ]
         },
@@ -166,7 +166,7 @@
         },
         "css": {
           "sync": [
-            "static/css/async/__federation_expose_material_form_input.1086da97.css"
+            "static/css/async/__federation_expose_material_form_input.00a85e53.css"
           ],
           "async": []
         }
