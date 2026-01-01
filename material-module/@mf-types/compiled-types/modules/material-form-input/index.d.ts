@@ -1,5 +1,6 @@
 import React from "react";
 import "./index.css";
+import { FormatRatio } from "@/components/format-ratio-selector";
 type ValueType = string | string[];
 export interface MaterialFormInputProps {
     repo: string;
@@ -10,6 +11,7 @@ export interface MaterialFormInputProps {
     style?: React.CSSProperties;
     className?: string;
     pickerType?: "drawer" | "modal";
+    defaultRatio?: FormatRatio;
 }
 export default function MaterialFormInput(props: MaterialFormInputProps): import("react/jsx-runtime").JSX.Element;
 export {};

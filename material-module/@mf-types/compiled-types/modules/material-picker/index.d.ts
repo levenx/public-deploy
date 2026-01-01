@@ -1,5 +1,6 @@
 import { QueryClient } from "@tanstack/react-query";
 import { type IMaterialItem } from "@/services/material";
+import { FormatRatio } from "@/components/format-ratio-selector";
 import "../../index.css";
 export declare let queryClient: QueryClient;
 export declare enum MaterialPickerFeature {
@@ -21,7 +22,7 @@ export interface MaterialPickerProps {
     features: Array<MaterialPickerFeature>;
     scene?: MaterialPickerScene;
     source: string;
-    defaultRatio?: string;
+    defaultRatio?: FormatRatio;
 }
 export declare function MaterialPicker(props: MaterialPickerProps): import("react/jsx-runtime").JSX.Element;
 export default function (props: MaterialPickerProps): import("react/jsx-runtime").JSX.Element;

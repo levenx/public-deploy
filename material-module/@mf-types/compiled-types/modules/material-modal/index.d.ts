@@ -1,8 +1,9 @@
 import type { IMaterialItem } from "@/services/material";
 import "./index.css";
+import type { FormatRatio } from "@/components/format-ratio-selector";
 interface MaterialModalProps {
     repo: string;
-    defaultRatio: number;
+    defaultRatio: FormatRatio;
     open: boolean;
     onClose: () => void;
     onSelect?: (value: IMaterialItem[]) => void;
