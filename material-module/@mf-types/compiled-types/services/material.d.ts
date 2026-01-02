@@ -10,6 +10,7 @@ interface IMaterialItemParams {
     repo: string;
     keyword?: string;
     ratio?: string;
+    sorter?: string[];
     groupId?: number;
     status?: number;
 }
@@ -45,4 +46,8 @@ export declare const uploadMaterial: (formData: FormData, options: {
 export declare const batchRestore: (ids: number[]) => Promise<IResponse<unknown>>;
 export declare const deleteMaterial: (ids: number[], isHardDelete: boolean) => Promise<IResponse<unknown>>;
 export declare const getMaterialViews: (id: number) => Promise<IResponse<IMaterialView[]>>;
+export declare const updateMaterialItem: (params: {
+    id: number;
+    fileName?: string;
+}) => Promise<IResponse<IMaterialItem>>;
 export {};

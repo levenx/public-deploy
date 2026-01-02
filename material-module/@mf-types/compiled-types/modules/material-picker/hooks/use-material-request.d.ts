@@ -4,6 +4,7 @@ interface UseMaterialRequestOptions {
     repo: string;
     keyword?: string;
     ratio?: string;
+    sorter?: string[];
     status?: number;
     enableRequest?: boolean;
 }
