@@ -12,6 +12,10 @@ export interface MaterialFormInputProps {
     className?: string;
     pickerType?: "drawer" | "modal";
     defaultRatio?: FormatRatio;
+    drawerProps?: {
+        className?: string;
+        zIndex?: number;
+    };
 }
 export default function MaterialFormInput(props: MaterialFormInputProps): import("react/jsx-runtime").JSX.Element;
 export {};

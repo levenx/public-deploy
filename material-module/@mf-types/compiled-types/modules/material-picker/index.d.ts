@@ -23,6 +23,8 @@ export interface MaterialPickerProps {
     scene?: MaterialPickerScene;
     source: string;
     defaultRatio?: FormatRatio;
+    className?: string;
+    zIndex?: number;
 }
 export declare function MaterialPicker(props: MaterialPickerProps): import("react/jsx-runtime").JSX.Element;
 export default function (props: MaterialPickerProps): import("react/jsx-runtime").JSX.Element;

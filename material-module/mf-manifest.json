@@ -9,7 +9,7 @@
       "buildName": "@portal/material-module"
     },
     "remoteEntry": {
-      "name": "remoteEntry.3350a9d008a642ff.js",
+      "name": "remoteEntry.bb89257c0976c46e.js",
       "path": "",
       "type": "global"
     },
@@ -36,7 +36,7 @@
           "async": [],
           "sync": [
             "static/js/178.284a8466.js",
-            "remoteEntry.3350a9d008a642ff.js"
+            "remoteEntry.bb89257c0976c46e.js"
           ]
         },
         "css": {
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.3350a9d008a642ff.js",
+            "remoteEntry.bb89257c0976c46e.js",
             "static/js/lib-react.89073fac.js"
           ]
         },
@@ -75,7 +75,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.3350a9d008a642ff.js",
+            "remoteEntry.bb89257c0976c46e.js",
             "static/js/lib-react.89073fac.js"
           ]
         },
@@ -134,7 +134,7 @@
             "static/js/294.7059fcfa.js",
             "static/js/364.1e756361.js",
             "static/js/async/911.31cc7b2b.js",
-            "static/js/async/84.c4d6c314.js",
+            "static/js/async/84.b32c9e61.js",
             "static/js/async/__federation_expose_material_trash.0fa5242d.js"
           ],
           "async": []
@@ -159,8 +159,8 @@
             "static/js/364.1e756361.js",
             "static/js/async/492.08088910.js",
             "static/js/async/911.31cc7b2b.js",
-            "static/js/async/84.c4d6c314.js",
-            "static/js/async/__federation_expose_material_form_input.b819ff80.js"
+            "static/js/async/84.b32c9e61.js",
+            "static/js/async/__federation_expose_material_form_input.a620de95.js"
           ],
           "async": []
         },
