@@ -14,6 +14,7 @@ interface FormatRatioSelectorProps {
     value: number;
     onChange: (value: number) => void;
     includeAllOption?: boolean;
+    includeOtherOption?: boolean;
 }
-export declare function FormatRatioSelector({ value, onChange, includeAllOption, }: FormatRatioSelectorProps): import("react/jsx-runtime").JSX.Element;
+export declare function FormatRatioSelector({ value, onChange, includeAllOption, includeOtherOption, }: FormatRatioSelectorProps): import("react/jsx-runtime").JSX.Element;
 export {};
