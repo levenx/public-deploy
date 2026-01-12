@@ -1,0 +1,1 @@
+export declare const SlashKit: (import("platejs/react").PlatePlugin<import("platejs").PluginConfig<"slash_command", import("@platejs/combobox").TriggerComboboxPluginOptions, {}, {}, {}>> | import("platejs/react").PlatePlugin<import("platejs").PluginConfig<"slash_input", {}, {}, {}, {}>>)[];

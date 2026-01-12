@@ -1,0 +1,1 @@
+export declare const BaseColumnKit: (import("platejs").SlatePlugin<import("platejs").PluginConfig<"column_group", {}, {}, {}, {}>> | import("platejs").SlatePlugin<import("platejs").PluginConfig<"column", {}, {}, {}, {}>>)[];

@@ -1,0 +1,116 @@
+{
+  "id": "plate_text_editor",
+  "name": "plate_text_editor",
+  "metaData": {
+    "name": "plate_text_editor",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "0.1.0",
+      "buildName": "plate-text-editor"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.d946c8e077810729.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "@mf-types.zip",
+      "api": "@mf-types.d.ts"
+    },
+    "globalName": "plate_text_editor",
+    "pluginVersion": "0.22.0",
+    "prefetchInterface": false,
+    "publicPath": "/"
+  },
+  "shared": [
+    {
+      "id": "plate_text_editor:react-dom",
+      "name": "react-dom",
+      "version": "19.2.0",
+      "singleton": true,
+      "requiredVersion": "19.2.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "remoteEntry.d946c8e077810729.js",
+            "static/js/lib-react.d43ad982.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "plate_text_editor:react",
+      "name": "react",
+      "version": "19.2.0",
+      "singleton": true,
+      "requiredVersion": "19.2.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "remoteEntry.d946c8e077810729.js",
+            "static/js/lib-react.d43ad982.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [
+    {
+      "federationContainerName": "material_module",
+      "moduleName": "UNKNOWN",
+      "alias": "material_module",
+      "entry": "http://localhost:3333/mf-manifest.json"
+    }
+  ],
+  "exposes": [
+    {
+      "id": "plate_text_editor:markdown-editor",
+      "name": "markdown-editor",
+      "assets": {
+        "js": {
+          "sync": [
+            "static/js/93.db8ae143.js",
+            "static/js/839.79bcc3ae.js",
+            "static/js/async/__federation_expose_markdown_editor.b3ef97b7.js"
+          ],
+          "async": [
+            "static/js/async/799.b16afc3f.js",
+            "static/js/async/322.8a0de809.js",
+            "static/js/async/110.4ef4c00c.js",
+            "static/js/async/reactPlayerHls.470640b8.js",
+            "static/js/async/reactPlayerMux.a0a555f9.js",
+            "static/js/async/reactPlayerDash.d38e80f0.js",
+            "static/js/async/588.2008b85e.js",
+            "static/js/async/reactPlayerYouTube.9684b81a.js",
+            "static/js/async/reactPlayerVimeo.e2e33a21.js",
+            "static/js/async/reactPlayerWistia.18b14749.js",
+            "static/js/async/reactPlayerSpotify.4ea56f6f.js",
+            "static/js/async/reactPlayerTwitch.b6faf4c2.js",
+            "static/js/async/reactPlayerTiktok.ffa86f7e.js",
+            "static/js/async/reactPlayerPreview.daba9c05.js"
+          ]
+        },
+        "css": {
+          "sync": [
+            "static/css/93.6efb0276.css",
+            "static/css/839.838cd5d3.css"
+          ],
+          "async": []
+        }
+      },
+      "path": "./markdown-editor"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export declare const ColumnKit: (import("platejs/react").PlatePlugin<import("platejs").PluginConfig<"column_group", {}, {}, {}, {}>> | import("platejs/react").PlatePlugin<import("platejs").PluginConfig<"column", {}, {}, {}, {}>>)[];

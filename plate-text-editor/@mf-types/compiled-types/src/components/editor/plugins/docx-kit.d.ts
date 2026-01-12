@@ -1,0 +1,1 @@
+export declare const DocxKit: (import("platejs").SlatePlugin<import("platejs").PluginConfig<"docx", {}, {}, {}, {}>> | import("platejs").SlatePlugin<import("platejs").PluginConfig<"juice", {}, {}, {}, {}>>)[];
