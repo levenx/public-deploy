@@ -9,7 +9,7 @@
       "buildName": "@portal/material-module"
     },
     "remoteEntry": {
-      "name": "remoteEntry.96fe33b89052851a.js",
+      "name": "remoteEntry.b749bc0894d1b90f.js",
       "path": "",
       "type": "global"
     },
@@ -35,8 +35,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/178.284a8466.js",
-            "remoteEntry.96fe33b89052851a.js"
+            "remoteEntry.b749bc0894d1b90f.js",
+            "static/js/86.38138331.js"
           ]
         },
         "css": {
@@ -48,15 +48,15 @@
     {
       "id": "material_module:react-dom",
       "name": "react-dom",
-      "version": "18.3.1",
+      "version": "19.2.0",
       "singleton": true,
-      "requiredVersion": "18.3.1",
+      "requiredVersion": "19.2.0",
       "assets": {
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.96fe33b89052851a.js",
-            "static/js/lib-react.89073fac.js"
+            "remoteEntry.b749bc0894d1b90f.js",
+            "static/js/lib-react.9d878e17.js"
           ]
         },
         "css": {
@@ -68,15 +68,15 @@
     {
       "id": "material_module:react",
       "name": "react",
-      "version": "18.3.1",
+      "version": "19.2.0",
       "singleton": true,
-      "requiredVersion": "18.3.1",
+      "requiredVersion": "19.2.0",
       "assets": {
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.96fe33b89052851a.js",
-            "static/js/lib-react.89073fac.js"
+            "remoteEntry.b749bc0894d1b90f.js",
+            "static/js/lib-react.9d878e17.js"
           ]
         },
         "css": {
@@ -110,14 +110,14 @@
         "js": {
           "sync": [
             "static/js/lib-axios.4e2a7f77.js",
-            "static/js/294.7059fcfa.js",
-            "static/js/async/911.1ba5033d.js"
+            "static/js/188.d339e767.js",
+            "static/js/async/911.0e353a06.js"
           ],
           "async": []
         },
         "css": {
           "sync": [
-            "static/css/async/__federation_expose_material_uploader.13fd08d8.css"
+            "static/css/async/__federation_expose_material_uploader.12ba5745.css"
           ],
           "async": []
         }
@@ -131,17 +131,17 @@
         "js": {
           "sync": [
             "static/js/lib-axios.4e2a7f77.js",
-            "static/js/294.7059fcfa.js",
-            "static/js/364.1e756361.js",
-            "static/js/async/911.1ba5033d.js",
-            "static/js/async/84.0f73b607.js",
-            "static/js/async/__federation_expose_material_trash.0fa5242d.js"
+            "static/js/188.d339e767.js",
+            "static/js/929.77cd7992.js",
+            "static/js/async/911.0e353a06.js",
+            "static/js/async/84.60a52251.js",
+            "static/js/async/__federation_expose_material_trash.52852ca0.js"
           ],
           "async": []
         },
         "css": {
           "sync": [
-            "static/css/async/__federation_expose_material_trash.21f797e3.css"
+            "static/css/async/__federation_expose_material_trash.b2022cbb.css"
           ],
           "async": []
         }
@@ -155,18 +155,18 @@
         "js": {
           "sync": [
             "static/js/lib-axios.4e2a7f77.js",
-            "static/js/294.7059fcfa.js",
-            "static/js/364.1e756361.js",
-            "static/js/async/492.08088910.js",
-            "static/js/async/911.1ba5033d.js",
-            "static/js/async/84.0f73b607.js",
-            "static/js/async/__federation_expose_material_form_input.a620de95.js"
+            "static/js/188.d339e767.js",
+            "static/js/929.77cd7992.js",
+            "static/js/async/570.9b79e932.js",
+            "static/js/async/911.0e353a06.js",
+            "static/js/async/84.60a52251.js",
+            "static/js/async/__federation_expose_material_form_input.6a9b126c.js"
           ],
           "async": []
         },
         "css": {
           "sync": [
-            "static/css/async/__federation_expose_material_form_input.edf6e8c6.css"
+            "static/css/async/__federation_expose_material_form_input.7e438955.css"
           ],
           "async": []
         }
