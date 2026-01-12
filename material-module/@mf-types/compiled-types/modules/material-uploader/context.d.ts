@@ -1,3 +1,4 @@
+import type { IMaterialItem } from "@/services/material";
 import { type Dispatch, type SetStateAction } from "react";
 export type Format = {
     width: number;
@@ -24,6 +25,7 @@ export interface UploadedFile {
         status: "success" | "error" | "uploading";
         message?: string;
     };
+    result?: IMaterialItem;
 }
 export declare const UploaderContext: import("react").Context<{
     repo: string;

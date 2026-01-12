@@ -42,7 +42,7 @@ export declare const getMaterialItem: (params: IMaterialItemParams) => Promise<I
 export declare const getOnlyMaterialItem: (id: number) => Promise<IResponse<IMaterialItem>>;
 export declare const uploadMaterial: (formData: FormData, options: {
     onUploadProgress?: (progressEvent: AxiosProgressEvent) => void;
-}) => Promise<IResponse<unknown>>;
+}) => Promise<IResponse<IMaterialItem>>;
 export declare const batchRestore: (ids: number[]) => Promise<IResponse<unknown>>;
 export declare const deleteMaterial: (ids: number[], isHardDelete: boolean) => Promise<IResponse<unknown>>;
 export declare const getMaterialViews: (id: number) => Promise<IResponse<IMaterialView[]>>;

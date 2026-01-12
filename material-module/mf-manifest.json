@@ -9,7 +9,7 @@
       "buildName": "@portal/material-module"
     },
     "remoteEntry": {
-      "name": "remoteEntry.b749bc0894d1b90f.js",
+      "name": "remoteEntry.4a8c7b8c6c5d61b7.js",
       "path": "",
       "type": "global"
     },
@@ -35,7 +35,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.b749bc0894d1b90f.js",
+            "remoteEntry.4a8c7b8c6c5d61b7.js",
             "static/js/86.38138331.js"
           ]
         },
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.b749bc0894d1b90f.js",
+            "remoteEntry.4a8c7b8c6c5d61b7.js",
             "static/js/lib-react.9d878e17.js"
           ]
         },
@@ -75,7 +75,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.b749bc0894d1b90f.js",
+            "remoteEntry.4a8c7b8c6c5d61b7.js",
             "static/js/lib-react.9d878e17.js"
           ]
         },
@@ -110,8 +110,8 @@
         "js": {
           "sync": [
             "static/js/lib-axios.4e2a7f77.js",
-            "static/js/188.d339e767.js",
-            "static/js/async/911.0e353a06.js"
+            "static/js/587.7387566c.js",
+            "static/js/async/911.8b34cf66.js"
           ],
           "async": []
         },
@@ -131,9 +131,9 @@
         "js": {
           "sync": [
             "static/js/lib-axios.4e2a7f77.js",
-            "static/js/188.d339e767.js",
+            "static/js/587.7387566c.js",
             "static/js/929.77cd7992.js",
-            "static/js/async/911.0e353a06.js",
+            "static/js/async/911.8b34cf66.js",
             "static/js/async/84.60a52251.js",
             "static/js/async/__federation_expose_material_trash.52852ca0.js"
           ],
@@ -155,10 +155,10 @@
         "js": {
           "sync": [
             "static/js/lib-axios.4e2a7f77.js",
-            "static/js/188.d339e767.js",
+            "static/js/587.7387566c.js",
             "static/js/929.77cd7992.js",
             "static/js/async/570.9b79e932.js",
-            "static/js/async/911.0e353a06.js",
+            "static/js/async/911.8b34cf66.js",
             "static/js/async/84.60a52251.js",
             "static/js/async/__federation_expose_material_form_input.6a9b126c.js"
           ],
