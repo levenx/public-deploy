@@ -9,7 +9,7 @@
       "buildName": "plate-text-editor"
     },
     "remoteEntry": {
-      "name": "remoteEntry.d946c8e077810729.js",
+      "name": "remoteEntry.92509492f757c33a.js",
       "path": "",
       "type": "global"
     },
@@ -22,7 +22,7 @@
     "globalName": "plate_text_editor",
     "pluginVersion": "0.22.0",
     "prefetchInterface": false,
-    "publicPath": "/"
+    "publicPath": "https://cdn.jsdelivr.net/gh/levenx/public-deploy/plate-text-editor/"
   },
   "shared": [
     {
@@ -35,7 +35,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.d946c8e077810729.js",
+            "remoteEntry.92509492f757c33a.js",
             "static/js/lib-react.d43ad982.js"
           ]
         },
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.d946c8e077810729.js",
+            "remoteEntry.92509492f757c33a.js",
             "static/js/lib-react.d43ad982.js"
           ]
         },
@@ -71,7 +71,7 @@
       "federationContainerName": "material_module",
       "moduleName": "UNKNOWN",
       "alias": "material_module",
-      "entry": "http://localhost:3333/mf-manifest.json"
+      "entry": "https://cdn.jsdelivr.net/gh/levenx/public-deploy/material-module/mf-manifest.json"
     }
   ],
   "exposes": [
@@ -104,7 +104,7 @@
         },
         "css": {
           "sync": [
-            "static/css/93.6efb0276.css",
+            "static/css/93.d6ba9ed8.css",
             "static/css/839.838cd5d3.css"
           ],
           "async": []
