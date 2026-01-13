@@ -9,7 +9,7 @@
       "buildName": "plate-text-editor"
     },
     "remoteEntry": {
-      "name": "remoteEntry.92509492f757c33a.js",
+      "name": "remoteEntry.f4044c6580f0be43.js",
       "path": "",
       "type": "global"
     },
@@ -37,8 +37,8 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.92509492f757c33a.js",
-            "static/js/lib-react.d43ad982.js"
+            "remoteEntry.f4044c6580f0be43.js",
+            "static/js/lib-react.bd766d5f.js"
           ]
         },
         "css": {
@@ -60,8 +60,8 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.92509492f757c33a.js",
-            "static/js/lib-react.d43ad982.js"
+            "remoteEntry.f4044c6580f0be43.js",
+            "static/js/lib-react.bd766d5f.js"
           ]
         },
         "css": {
@@ -74,7 +74,7 @@
   ],
   "remotes": [
     {
-      "entry": "https://cdn.jsdelivr.net/gh/levenx/public-deploy/material-module/mf-manifest.json",
+      "entry": "http://material-module.target.levenx.com/mf-manifest.json",
       "alias": "material_module",
       "moduleName": "UNKNOWN",
       "federationContainerName": "material_module",
@@ -94,31 +94,31 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/93.db8ae143.js",
-            "static/js/839.79bcc3ae.js",
-            "static/js/async/__federation_expose_markdown_editor.b3ef97b7.js"
+            "static/js/93.2c145bf3.js",
+            "static/js/839.ee1305af.js",
+            "static/js/async/__federation_expose_markdown_editor.5152214f.js"
           ],
           "async": [
-            "static/js/async/799.b16afc3f.js",
-            "static/js/async/322.8a0de809.js",
-            "static/js/async/110.4ef4c00c.js",
-            "static/js/async/reactPlayerHls.470640b8.js",
-            "static/js/async/reactPlayerMux.a0a555f9.js",
-            "static/js/async/reactPlayerDash.d38e80f0.js",
-            "static/js/async/588.2008b85e.js",
-            "static/js/async/reactPlayerYouTube.9684b81a.js",
-            "static/js/async/reactPlayerVimeo.e2e33a21.js",
-            "static/js/async/reactPlayerWistia.18b14749.js",
-            "static/js/async/reactPlayerSpotify.4ea56f6f.js",
-            "static/js/async/reactPlayerTwitch.b6faf4c2.js",
-            "static/js/async/reactPlayerTiktok.ffa86f7e.js",
-            "static/js/async/reactPlayerPreview.daba9c05.js"
+            "static/js/async/799.d360fde2.js",
+            "static/js/async/322.abb6b052.js",
+            "static/js/async/110.01b32874.js",
+            "static/js/async/reactPlayerHls.bf1970af.js",
+            "static/js/async/reactPlayerMux.4f320d79.js",
+            "static/js/async/reactPlayerDash.5f08b9a2.js",
+            "static/js/async/588.98fd3cc7.js",
+            "static/js/async/reactPlayerYouTube.4050512d.js",
+            "static/js/async/reactPlayerVimeo.39e53155.js",
+            "static/js/async/reactPlayerWistia.697d1a66.js",
+            "static/js/async/reactPlayerSpotify.0ab2fee3.js",
+            "static/js/async/reactPlayerTwitch.6c94f10f.js",
+            "static/js/async/reactPlayerTiktok.3b5e8286.js",
+            "static/js/async/reactPlayerPreview.5b41366a.js"
           ]
         },
         "css": {
           "sync": [
             "static/css/93.d6ba9ed8.css",
-            "static/css/839.838cd5d3.css"
+            "static/css/839.ad37cb6f.css"
           ],
           "async": []
         }
