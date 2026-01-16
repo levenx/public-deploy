@@ -9,7 +9,7 @@
       "buildName": "plate-text-editor"
     },
     "remoteEntry": {
-      "name": "remoteEntry.f4044c6580f0be43.js",
+      "name": "remoteEntry.603fb67026dfb33d.js",
       "path": "",
       "type": "global"
     },
@@ -35,7 +35,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.f4044c6580f0be43.js",
+            "remoteEntry.603fb67026dfb33d.js",
             "static/js/lib-react.bd766d5f.js"
           ]
         },
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "remoteEntry.f4044c6580f0be43.js",
+            "remoteEntry.603fb67026dfb33d.js",
             "static/js/lib-react.bd766d5f.js"
           ]
         },
@@ -82,7 +82,7 @@
         "js": {
           "sync": [
             "static/js/93.2c145bf3.js",
-            "static/js/839.ee1305af.js",
+            "static/js/839.2ef9b3e6.js",
             "static/js/async/__federation_expose_markdown_editor.5152214f.js"
           ],
           "async": [
@@ -105,7 +105,7 @@
         "css": {
           "sync": [
             "static/css/93.d6ba9ed8.css",
-            "static/css/839.ad37cb6f.css"
+            "static/css/839.32b45345.css"
           ],
           "async": []
         }
